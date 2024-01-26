@@ -1,4 +1,4 @@
-FROM modenaf360/gotty:latest
+FROM sorenisanerd/gotty:latest
 
 EXPOSE 8080
 
